@@ -34,7 +34,7 @@
     "@nestjs/terminus": "^9.1.2",
     "@nestjs/typeorm": "^9.0.1",
     "@willsoto/nestjs-prometheus": "^4.7.0",
-    "axios": "^1.4.0",
+    "axios": "^1.20.0",
     "class-transformer": "^0.5.1",
     "class-validator": "0.14.0",
     "ethers": "^5.7.2",
